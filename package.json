@@ -1,0 +1,19 @@
+{
+  "name": "brunch-files-inject",
+  "version": "1.0.0",
+  "description": "Inject compiled javascript and css files into your index.html",
+  "author": "Alex Ketchum (http://alexketchum.me)",
+  "homepage": "https://github.com/alexbrandonketchum/brunch-files-inject",
+  "keywords": [
+      "brunchplugin",
+      "brunch",
+      "inject",
+      "injectfiles"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/alexbrandonketchum/brunch-files-inject.git"
+  },
+  "main": "index.js",
+  "license": "ISC"
+}

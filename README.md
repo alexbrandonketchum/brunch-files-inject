@@ -12,8 +12,8 @@ Or, do a manual install:
 - If you want to use git version of plugin, add "brunch-inject-files": "https://github.com/alexbrandonketchum/brunch-files-inject.git".
 
 The plugin looks for specific comments in `/assets/index.html` and replaces them with the appropriate tags. The comments are:
-- <!-- inject:css -->
-- <!-- inject:js -->
+- `<!-- inject:css -->`
+- `<!-- inject:js -->`
 
 #### Example
 Before:
